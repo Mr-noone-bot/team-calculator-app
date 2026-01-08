@@ -15,3 +15,9 @@ else:
 
 # MULTIPLICATION
 print("Multiplication =", a * b)
+# MODULUS
+if b != 0:
+    print("Modulus =", a % b)
+else:
+    print("Modulus by zero is not allowed")
+
