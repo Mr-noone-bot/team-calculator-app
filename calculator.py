@@ -5,7 +5,8 @@ b = int(input("Enter second number: "))
 
 print("Addition =", a + b)
 
-
+# SUBTRACTION
+print("Subtraction=",a-b)
 # DIVISION
 if b != 0:
     print("Division =", a / b)
